@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://backend-r7tb.onrender.com";
+export const BACKEND_URL = "https://backend-r7tb.onrender.com/api/vi";
